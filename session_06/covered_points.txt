@@ -1,0 +1,88 @@
+- problem on array
+- implode()
+- explode()
+
+- Superglobals
+
+    - $GLOBALS
+    - $_SERVER
+    - $_REQUEST
+    - $_POST
+    - $_GET
+    - $_SESSION
+
+- problem on forms
+
+- upload file
+
+- delete file
+
+- OOP   (Object Oriented Programming)
+
+    - Class 
+        - The class name should start with a letter (Capital).
+        - Class name can not be a reserved word
+        - The class name cannot contain spaces
+
+        - attributes (properties)
+            - name
+            - age
+            - type
+        - methods
+            - run
+            - walk
+            - think
+
+    - Object
+        -attributes (properties)
+            - ahmed
+            - 20
+            - male
+        - methods
+            - running 
+            - walking
+            - can think
+
+    - Access Modifiers
+        - public
+            - use property or method from any where
+        - private
+            - can only use the property or method in the class.
+        - protected
+            - can use the property or method in the class and any class extends or inherits from this class also.
+
+    - Constructor
+        - first thing work, boots when creating object from class
+
+    - Destructor
+        - last thing work, in the object life cycle
+
+    - New Keyword to create instance from a class
+
+    - Encapsulation
+        - reduce software development complexity
+        - protect the state of Object
+        - the implementation of the class can be changed without worrying about breaking the code that uses the class.
+
+    - Polymorphism
+        - single function (form) but many implementations
+        - make application simple and extendable.
+
+    - inheritance
+        - Relation between classes
+        - Re-Usability
+
+    - Abstraction
+        - Handle complexity by hiding unnecessary details from the user.
+
+
+    - Interface 
+        - only define funciton without implementation
+        - cannot define properties.
+        - cannot be instantiated
+    
+    - Abstract Class
+        - can define properties
+        - should only hs one Abstract function.
+        - can has methods with implementation.
+

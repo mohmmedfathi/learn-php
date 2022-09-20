@@ -1,0 +1,22 @@
+- problem-solving of php
+
+- navigation between pages
+
+- url components
+
+- send data between pages using url parameters
+
+- connect php with mysql
+
+    - select query
+    - insert query
+    - update query
+    - delete
+
+- include files
+
+- <pre></pre>
+
+- header built-in function
+
+- htmlspecialchars()
